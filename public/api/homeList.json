@@ -1,0 +1,24 @@
+{
+	"success": true,
+	"data": [{
+		"id": 5,
+		"title": "Stop Using Print to Debug in Python. Use Icecream Instead",
+		"desc": "If you are using print to debug your code, you might find it confusing to look at many lines of output on your terminal and then try to figure out which code each output belongs to...",
+		"imgUrl": "https://miro.medium.com/max/1050/0*uTRIRERbf-Gg0UKN"
+	}, {
+		"id": 6,
+		"title": "Object-Oriented Programming is The Biggest Mistake of Computer Science",
+		"desc": "C++ and Java probably are some of the worst mistakes of computer science. Both have been heavily criticized by Alan Kay, the creator of OOP himself, and many other prominent computer scientists...",
+		"imgUrl": "https://miro.medium.com/max/1050/1*69LyKbwlaQMI0yEPuJnB2w.jpeg"
+	}, {
+		"id": 7,
+		"title": "30 Programming Memes That Will Lighten Your Mood",
+		"desc": "Every day we come across a lot of situations and we work really hard to crack all the issues. We deserve to lighten up our mood after a hectic day....",
+		"imgUrl": "https://miro.medium.com/max/1050/0*nnUq1qCpXTwRnfUH"
+	}, {
+		"id": 8,
+		"title": "Jupyter in VS Code: Pros and Cons",
+		"desc": "Notebooks have always been aperfect tool for the incremental development of software ideas. Data scientists use Notebooks to journal their work, explore and experiment with novel algorithms,quickly sketch new...",
+		"imgUrl": "https://miro.medium.com/max/1050/1*wjT3_I_OkIcC3bAbRH_G2g.jpeg"
+	}]
+}
